@@ -19,4 +19,4 @@ Each chart includes a `values.yaml` file, which you can customize according to y
 
 Retrieve all old versions of the deployment here
 
-- **Helm Deployment**: [Phraseanet Helm Releases](https://github.com/alchemy-fr/alchemy-helm-charts-repo/releases?q=phraseanet-&expanded=true)
+- **Older Helm releases**: [older Helm releases](https://github.com/alchemy-fr/alchemy-helm-charts-repo/releases?q=phraseanet-&expanded=true)
