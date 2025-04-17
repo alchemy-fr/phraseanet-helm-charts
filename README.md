@@ -15,6 +15,8 @@ Phraseanet is our active and comprehensive DAM solution that enables organizatio
 Each chart includes a `values.yaml` file, which you can customize according to your needs. For detailed configuration options, it is recommended to review the specific documentation of each chart.
 
 
-## retrieve older deployment version here
+## Older deployment version.
+
+Retrieve all old versions of the deployment here
 
 - **Helm Deployment**: [Phraseanet Helm Releases](https://github.com/alchemy-fr/alchemy-helm-charts-repo/releases?q=phraseanet-&expanded=true)
