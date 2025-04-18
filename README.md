@@ -1,4 +1,4 @@
-# Phraseanet Helm Charts Repository
+# Phraseanet Helm Charts
 
 Welcome to the official Helm Charts repository for Phraseanet Alchemy's Digital Asset Management (DAM) products. This repository contains all the necessary resources to deploy and manage our DAM applications in Kubernetes environments.
 
@@ -14,7 +14,7 @@ Phraseanet is our active and comprehensive DAM solution that enables organizatio
 
 Each chart includes a `values.yaml` file, which you can customize according to your needs. For detailed configuration options, it is recommended to review the specific documentation of each chart.
 
-
+ 
 ## Older deployment version.
 
 Retrieve all old versions of the deployment here
