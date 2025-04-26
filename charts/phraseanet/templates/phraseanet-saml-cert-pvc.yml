@@ -1,3 +1,4 @@
+{{- if eq .Values.saml.enabled true }}
 {{- with .Values.saml.pvc.cert }}
 {{- if and .persistence.enabled (not .persistence.existingClaim) }}
 kind: PersistentVolumeClaim
@@ -20,3 +21,4 @@ spec:
 {{- end }}
 {{- end }}
 {{- end }}
+{{- end}}
