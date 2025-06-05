@@ -40,7 +40,7 @@ spec:
           value: {{ .Values.app.phraseanet_db_port | quote }}
         - name: INSTALL_APPBOX
           value: {{ .Values.app.install_appbox | quote }}
-        - name: INSTALL_DATABOX 
+        - name: INSTALL_DATABOX
           value: {{ .Values.app.install_databox | quote }}
         command: ["sh", "-c"]
         args:
